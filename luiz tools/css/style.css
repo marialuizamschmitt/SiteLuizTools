@@ -1,0 +1,129 @@
+.bg{
+    background: rgb(119,41,26);
+    background: -moz-linear-gradient(160deg, rgba(119,41,26,1) 17%, rgba(120,69,42,1) 27%, rgba(0,0,0,1) 94%);
+    background: -webkit-linear-gradient(160deg, rgba(119,41,26,1) 17%, rgba(120,69,42,1) 27%, rgba(0,0,0,1) 94%);
+    background: linear-gradient(160deg, rgba(119,41,26,1) 17%, rgba(120,69,42,1) 27%, rgba(0,0,0,1) 94%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#77291a",endColorstr="#000000",GradientType=1);
+}
+
+.navbar-dark .navbar-toggler {
+    border-color: transparent;
+}
+
+.luizTools{
+    margin-top: 55px;
+}
+
+.navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl{
+   margin-top: 55px;
+
+}
+.navbar-dark .navbar-nav .nav-link{
+    color: white;
+    margin-left: 25px;
+    font-size: 17px;
+}
+
+.row>*{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.navbar-expand-lg {
+
+    padding: 0%;
+}
+
+.container-fluid{
+    padding: 0px;
+}
+
+.navbar-collapse{
+    flex-grow: 0.2;
+}
+
+#container-2{
+    margin-top: 60px;
+}
+
+h1{
+    font-size: 70px;
+    color: white;
+}
+.boxText{
+    font-size: 21px;
+    color: orange;
+}
+
+.boxText-2{
+    font-size: 21px;
+    color: orange;
+}
+
+h3{
+    font-size: 17px;
+}
+
+.btn{
+    background-color: rgb(255, 81, 0);
+    border: transparent;
+    height: 50px;
+}
+
+#miniBoxText{
+    color: orange;
+}
+
+#textLine{
+    margin-top: 10%;
+    color: orangered;
+}
+
+.textHome-2{
+    font-size: 20px;
+    color: orange;
+}
+
+.tituloHome-2{
+    font-size: 53px;
+}
+
+#boxes{
+    background-color: aqua;
+}
+
+.p-3{
+    height: 100%;
+
+}
+
+/* TESTEEEEEEEEEEEEEEEEEEEEEEEEEEEEE*/
+
+.main-box{
+    background-color: #181628;
+    border-radius: 5px;
+    height: 20vw;
+    
+}
+
+.main-box-img{
+    width: 7vw;
+    margin-top: 10px;
+   
+}
+
+.main-box-title{
+    color: white;
+    font-size: 30px;
+}
+.main-box-text{
+    color: #ff9659;
+    font-size: 15px;
+}
+
+.card{
+ margin: 1vw; 
+ background-color: #181628; 
+ height: 20vw; 
+    
+}
