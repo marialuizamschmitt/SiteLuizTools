@@ -6,6 +6,20 @@
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#77291a",endColorstr="#000000",GradientType=1);
 }
 
+
+@media (max-width: 768px){
+    #titulo{
+        width: 100%;   
+    }
+    .titulo{
+        font-size: 70px;
+    }
+    #btn{
+        width: 80%;
+        font-size: 100%;
+    }
+}
+
 .navbar-dark .navbar-toggler {
     border-color: transparent;
 }
